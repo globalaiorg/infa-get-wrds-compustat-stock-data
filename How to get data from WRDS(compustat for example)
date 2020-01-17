@@ -1,0 +1,10 @@
+##Get data from WRDS
+
+1. Go to WRDS website. https://wrds-www.wharton.upenn.edu/ 
+2. User=geert password=ANNcam#2
+3. select Compustat - Capital IQ 
+4. choose North America - Daily
+5. select Fundamentals Quarterly
+6. select the date range, to get all the stocks in the database, choose Search the entire database. And click on select all to choose all the factors in the database
+7. choose output file format(csv,txt..)
+8.submit the query and done
